@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ex.xsl"?>
+<stagiaire>
+   <st>
+      <Nom>Hamdi</Nom>
+      <Section>TDI</Section>
+      <Niveau>2</Niveau>
+      <Cours>Jour</Cours>
+   </st>
+   <st>
+      <Nom>Wafdi</Nom>
+      <Section>TSGE</Section>
+      <Niveau>1</Niveau>
+      <Cours>Soir</Cours>
+   </st>
+   <st>
+      <Nom>Azmi</Nom>
+      <Section>RSSI</Section>
+      <Niveau>2</Niveau>
+      <Cours>Jour</Cours>
+   </st>
+   <st>
+      <Nom>Bazzi</Nom>
+      <Section>TDI</Section>
+      <Niveau>3</Niveau>
+      <Cours>Soir</Cours>
+   </st>
+</stagiaire>
